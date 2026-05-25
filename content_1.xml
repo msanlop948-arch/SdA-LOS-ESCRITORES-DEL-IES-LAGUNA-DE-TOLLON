@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260525231800GGJXJA</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260525231800P0I5LD</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA. LAS CIVILIZACIONES ANTIGUAS DE MESOPOTAMIA Y EGIPTO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>LOS ESCRITORES DEL IES LAGUNA DE TOLLÓN</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>MARÍA DOLORES SÁNCHEZ LÓPEZ MONTERO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El proyecto tiene como objetivo adquirir aprendizaje sobre el origen de la escritura en las civilizaciones de Mesopotamia y Egipto, analizando cómo surgieron los primeros sistemas de escritura y cuál fue su importancia para el desarrollo de las sociedades antiguas. Teniendo que investigar sobre la escritura en Mesopotamia y Egipto (cuneiforme y jeroglíficos), soportes que utilizaban, la vida cotidiana de los escribas y sacerdotes, y la importancia que tuvo la escritura para la organización política, económica y cultural.
+
+Al nivel que va dirigido es el alumnado de 1º de la ESO
+
+La temporalización aproximada será de 4 semanas, en unas 10 o 12 sesiones. 
+
+La materia implicada será la de Geografía e Historia, aunque se podrá trabajar de forma interdisciplinar con la materia de Lengua y Literatura, Inglés y Educación Plástica y Visual.
+
+El idioma principal será el castellano, pero como ya he dicho se podrá trabajar con la materia de inglés.
+Este proyecto tiene como objetivo que el alumnado conozca el origen de la escritura y comprenda su importancia como herramienta fundamental para el desarrollo de las civilizaciones.
+A través de metodologías activas, participativas y motivadoras, el alumnado investigará cómo escribían en Mesopotamia y Egipto, qué materiales utilizaban y cuál era la función de los escribas. Para ello el alumnado tendrá que realizar actividades como investigación de fuentes históricas, realización de ejes cronológicos, interpretación de imágenes y símbolos, elaboración de tablillas de arcilla, presentaciones digitales, exposiciones orales, etc.
+</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779742815228</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mplox513-nn6rz1du8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTACIÓN DEL PROYECTO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PRESENTACIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplox513-nn6rz1du8</odePageId>
+      <odeBlockId>block-1779635480991-ftdw1uetv</odeBlockId>
+      <blockName>PRESENTACIÓN DEL PROYECTO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplox513-nn6rz1du8</odePageId>
+          <odeBlockId>block-1779635480991-ftdw1uetv</odeBlockId>
+          <odeIdeviceId>idevice-1779635480979-m8g6rwaip</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>DESCRIPCIÓN DE LA ACTIVIDAD</strong></p>
+<p><br />Título del proyecto: <strong>Los Primeros Escritores de la Laguna de Tollón</strong></p>
+<p><br />El proyecto tiene como objetivo adquirir aprendizaje sobre el origen de la escritura en las civilizaciones de Mesopotamia y Egipto, analizando cómo surgieron los primeros sistemas de escritura y cuál fue su importancia para el desarrollo de las sociedades antiguas. Teniendo que investigar sobre la escritura en Mesopotamia y Egipto (cuneiforme y jeroglíficos), soportes que utilizaban, la vida cotidiana de los escribas y sacerdotes, y la importancia que tuvo la escritura para la organización política, económica y cultural.</p>
+<p><br />Al nivel que va dirigido es el alumnado de 1º de la ESO</p>
+<p><br />La temporalización aproximada será de 4 semanas, en unas 10 o 12 sesiones. </p>
+<p><br />La materia implicada será la de Geografía e Historia, aunque se podrá trabajar de forma interdisciplinar con la materia de Lengua y Literatura, Inglés y Educación Plástica y Visual.</p>
+<p><br />El idioma principal será el castellano, pero como ya he dicho se podrá trabajar con la materia de inglés.</p>
+<p>Este proyecto tiene como objetivo que el alumnado conozca el origen de la escritura y comprenda su importancia como herramienta fundamental para el desarrollo de las civilizaciones.</p>
+<p>A través de metodologías activas, participativas y motivadoras, el alumnado investigará cómo escribían en Mesopotamia y Egipto, qué materiales utilizaban y cuál era la función de los escribas. Para ello el alumnado tendrá que realizar actividades como investigación de fuentes históricas, realización de ejes cronológicos, interpretación de imágenes y símbolos, elaboración de tablillas de arcilla, presentaciones digitales, exposiciones orales, etc.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779635480979-m8g6rwaip","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>DESCRIPCIÓN DE LA ACTIVIDAD</strong></p>\n<p><br />Título del proyecto: <strong>Los Primeros Escritores de la Laguna de Tollón</strong></p>\n<p><br />El proyecto tiene como objetivo adquirir aprendizaje sobre el origen de la escritura en las civilizaciones de Mesopotamia y Egipto, analizando cómo surgieron los primeros sistemas de escritura y cuál fue su importancia para el desarrollo de las sociedades antiguas. Teniendo que investigar sobre la escritura en Mesopotamia y Egipto (cuneiforme y jeroglíficos), soportes que utilizaban, la vida cotidiana de los escribas y sacerdotes, y la importancia que tuvo la escritura para la organización política, económica y cultural.</p>\n<p><br />Al nivel que va dirigido es el alumnado de 1º de la ESO</p>\n<p><br />La temporalización aproximada será de 4 semanas, en unas 10 o 12 sesiones. </p>\n<p><br />La materia implicada será la de Geografía e Historia, aunque se podrá trabajar de forma interdisciplinar con la materia de Lengua y Literatura, Inglés y Educación Plástica y Visual.</p>\n<p><br />El idioma principal será el castellano, pero como ya he dicho se podrá trabajar con la materia de inglés.</p>\n<p>Este proyecto tiene como objetivo que el alumnado conozca el origen de la escritura y comprenda su importancia como herramienta fundamental para el desarrollo de las civilizaciones.</p>\n<p>A través de metodologías activas, participativas y motivadoras, el alumnado investigará cómo escribían en Mesopotamia y Egipto, qué materiales utilizaban y cuál era la función de los escribas. Para ello el alumnado tendrá que realizar actividades como investigación de fuentes históricas, realización de ejes cronológicos, interpretación de imágenes y símbolos, elaboración de tablillas de arcilla, presentaciones digitales, exposiciones orales, etc.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplox516-no91vcjol</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INFORMACIÓN SOBRE LA PROTECCIÓN DE DATOS PERSONALES Y GARANTÍAS DE DERECHOS DIGITALES</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INFORMACIÓN SOBRE LA PROTECCIÓN DE DATOS PERSONALES Y GARANTÍAS DE DERECHOS DIGITALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INFORMACIÓN SOBRE LA PROTECCIÓN DE DATOS PERSONALES Y GARANTÍAS DE DERECHOS DIGITALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>INFORMACIÓN SOBRE LA PROTECCIÓN DE DATOS PERSONALES Y GARANTÍAS DE DERECHOS DIGITALES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplox516-no91vcjol</odePageId>
+      <odeBlockId>block-1779636163198-6gt8jb1oo</odeBlockId>
+      <blockName>PROTECCIÓN DE DATOS PERSONALES Y GARANTÍAS DE DERECHOS DIGITALES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplox516-no91vcjol</odePageId>
+          <odeBlockId>block-1779636163198-6gt8jb1oo</odeBlockId>
+          <odeIdeviceId>idevice-1779636163188-nhfp1zktq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="informacion-sobre-la-proteccion-de-datos-personale.html" title="licencias y seguridad.pdf">{{context_path}}/content/resources/licencias y seguridad.pdf</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779636163188-nhfp1zktq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"exe-node:page-mplox516-no91vcjol\" title=\"licencias y seguridad.pdf\">{{context_path}}/content/resources/licencias y seguridad.pdf</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplox518-suj1rfx30</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DESCRIPCIÓN DEL PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DEL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DEL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplox518-suj1rfx30</odePageId>
+      <odeBlockId>block-1779636550291-6l9mgdc96</odeBlockId>
+      <blockName>PRODUCTO FINAL</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplox518-suj1rfx30</odePageId>
+          <odeBlockId>block-1779636550291-6l9mgdc96</odeBlockId>
+          <odeIdeviceId>idevice-1779636550286-i6hc7yr4m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>10 A 11 SESIONES, SEGÚN NECESIDADES</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>1º ESO</dd></div></dl><p>Para el producto final de este proyecto, utilizaremos Canva y Pixton</p>
+<p>El canva para realizar la presentación de la escritura en Mesopotamia y Egipto, por la variabilidad que nos ofrece, ya que el alumnado puede utilizar tanto textos, imágenes, mapas, líneas del tiempo de una manera sencilla, además de su facilidad de uso, pues dispone de plantilla, que agilizan el trabajo, además les facilitan la organización de la información y favorecen la creatividad del alumno/a.</p>
+<p>Por otro lado, vamos a utilizar Pixton para realizar un cómic para la elaboración de los documento por los escribas. Muy adecuada para la edad del alumnado y sus características, además de ser muy creativa y motivadora, enriqueciendo su aprendizaje. Así los estudiantes podrán representar escenas históricas y diálogos, recreando la realidad de la antigüedad. Con ello, conseguimos que el alumnado se convierta en el protagonista activo de su aprendizaje. </p>
+<p>Además de utilizar tablillas de arcilla para nuestro taller de escritura, donde cada alumno/a, con un punzón, pondrá su nombre sobre la tablilla en alfabeto cuneiforme o en jeroglífico. </p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779636550286-i6hc7yr4m","textInfoDurationInput":"10 A 11 SESIONES, SEGÚN NECESIDADES","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"1º ESO","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>10 A 11 SESIONES, SEGÚN NECESIDADES</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>1º ESO</dd></div></dl><p>Para el producto final de este proyecto, utilizaremos Canva y Pixton</p>\n<p>El canva para realizar la presentación de la escritura en Mesopotamia y Egipto, por la variabilidad que nos ofrece, ya que el alumnado puede utilizar tanto textos, imágenes, mapas, líneas del tiempo de una manera sencilla, además de su facilidad de uso, pues dispone de plantilla, que agilizan el trabajo, además les facilitan la organización de la información y favorecen la creatividad del alumno/a.</p>\n<p>Por otro lado, vamos a utilizar Pixton para realizar un cómic para la elaboración de los documento por los escribas. Muy adecuada para la edad del alumnado y sus características, además de ser muy creativa y motivadora, enriqueciendo su aprendizaje. Así los estudiantes podrán representar escenas históricas y diálogos, recreando la realidad de la antigüedad. Con ello, conseguimos que el alumnado se convierta en el protagonista activo de su aprendizaje. </p>\n<p>Además de utilizar tablillas de arcilla para nuestro taller de escritura, donde cada alumno/a, con un punzón, pondrá su nombre sobre la tablilla en alfabeto cuneiforme o en jeroglífico. </p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplox519-ld2cur9lx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CURACIÓN DE CONTENIDOS</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CURACIÓN DE CONTENIDOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CURACIÓN DE CONTENIDOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplox519-ld2cur9lx</odePageId>
+      <odeBlockId>block-1779636820315-fcj212vgp</odeBlockId>
+      <blockName>PADLET PARA LA SdA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplox519-ld2cur9lx</odePageId>
+          <odeBlockId>block-1779636820315-fcj212vgp</odeBlockId>
+          <odeIdeviceId>idevice-1779636820303-0v2fpejuf</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/msanlop948/recursos-para-el-proyecto-la-escritura-en-mesopotamia-y-egip-weodqowu0vvh1qj3" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779742883245-hn1kmb4ua</odePageId>
+  <odeParentPageId>page-mplox519-ld2cur9lx</odeParentPageId>
+  <pageName>SYMBALOO</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SYMBALOO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779742883245-hn1kmb4ua</odePageId>
+      <odeBlockId>block-1779742886601-9nacbt1h5</odeBlockId>
+      <blockName>CURACIÓN DE CONTENIDOS DEL DOCENTE</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779742883245-hn1kmb4ua</odePageId>
+          <odeBlockId>block-1779742886601-9nacbt1h5</odeBlockId>
+          <odeIdeviceId>idevice-1779742886594-17vpfkm63</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.symbaloo.com/shared/AAAAAWDWUSoAA41-5Enslg==" title="">https://www.symbaloo.com/shared/AAAAAWDWUSoAA41-5Enslg==</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779742886594-17vpfkm63","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.symbaloo.com/shared/AAAAAWDWUSoAA41-5Enslg==\" title=\"\">https://www.symbaloo.com/shared/AAAAAWDWUSoAA41-5Enslg==</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779742970845-z25x102yr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LÍNEA TEMPORAL Y TAREAS DEL PROYECTO</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LÍNEA TEMPORAL Y TAREAS DEL PROYECTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779742970845-z25x102yr</odePageId>
+      <odeBlockId>block-1779742972775-2qzr7ykij</odeBlockId>
+      <blockName>LÍNEA TEMPORAL Y ACTIVIDADES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779742970845-z25x102yr</odePageId>
+          <odeBlockId>block-1779742972775-2qzr7ykij</odeBlockId>
+          <odeIdeviceId>idevice-1779742972771-0bctbvsli</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://view.genially.com/6a123c4bdc150584828d185f" title="">https://view.genially.com/6a123c4bdc150584828d185f</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779742972771-0bctbvsli","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://view.genially.com/6a123c4bdc150584828d185f\" title=\"\">https://view.genially.com/6a123c4bdc150584828d185f</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779743056481-04qw5e7u2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRITERIOS DE EVALUACIÓN </pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRITERIOS DE EVALUACIÓN </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779743056481-04qw5e7u2</odePageId>
+      <odeBlockId>block-1779743058612-hrbg7nnn6</odeBlockId>
+      <blockName>CRITERIOS DE EVALUACIÓN ASOCIADOS A TAREAS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779743056481-04qw5e7u2</odePageId>
+          <odeBlockId>block-1779743058612-hrbg7nnn6</odeBlockId>
+          <odeIdeviceId>idevice-1779743058610-vkjlbdtht</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/document/d/1GA8evlToWSP5tEFyC5ZwigOWcD5SoIs2WoHs0oAQkHA/edit?usp=sharing" title="">https://docs.google.com/document/d/1GA8evlToWSP5tEFyC5ZwigOWcD5SoIs2WoHs0oAQkHA/edit?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779743058610-vkjlbdtht","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1GA8evlToWSP5tEFyC5ZwigOWcD5SoIs2WoHs0oAQkHA/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/1GA8evlToWSP5tEFyC5ZwigOWcD5SoIs2WoHs0oAQkHA/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779743171256-7hyqlkf96</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INSTRUMENTOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779743171256-7hyqlkf96</odePageId>
+      <odeBlockId>block-1779743173360-2319tbsum</odeBlockId>
+      <blockName>INSTRUMENTOS DE EVALUACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779743171256-7hyqlkf96</odePageId>
+          <odeBlockId>block-1779743173360-2319tbsum</odeBlockId>
+          <odeIdeviceId>idevice-1779743173358-ttk2xja51</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/document/d/1KUrYEMcYJ2SNh2ax3gRiU7HnzAwm0uVhI7Q4wy205Pg/edit?usp=sharing" title="">https://docs.google.com/document/d/1KUrYEMcYJ2SNh2ax3gRiU7HnzAwm0uVhI7Q4wy205Pg/edit?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779743173358-ttk2xja51","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1KUrYEMcYJ2SNh2ax3gRiU7HnzAwm0uVhI7Q4wy205Pg/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/1KUrYEMcYJ2SNh2ax3gRiU7HnzAwm0uVhI7Q4wy205Pg/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779743210032-um8ycr7ui</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779743210032-um8ycr7ui</odePageId>
+      <odeBlockId>block-1779743213632-j9f9g2fwz</odeBlockId>
+      <blockName>GUÍA DIDÁCTICA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779743210032-um8ycr7ui</odePageId>
+          <odeBlockId>block-1779743213632-j9f9g2fwz</odeBlockId>
+          <odeIdeviceId>idevice-1779743213627-22y7856z0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/document/d/1GA8evlToWSP5tEFyC5ZwigOWcD5SoIs2WoHs0oAQkHA/edit?usp=sharing" title="">https://docs.google.com/document/d/1GA8evlToWSP5tEFyC5ZwigOWcD5SoIs2WoHs0oAQkHA/edit?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779743213627-22y7856z0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1GA8evlToWSP5tEFyC5ZwigOWcD5SoIs2WoHs0oAQkHA/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/1GA8evlToWSP5tEFyC5ZwigOWcD5SoIs2WoHs0oAQkHA/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779743254647-ks0upm74r</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779743254647-ks0upm74r</odePageId>
+      <odeBlockId>block-1779743257072-mfaql8bcu</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779743254647-ks0upm74r</odePageId>
+          <odeBlockId>block-1779743257072-mfaql8bcu</odeBlockId>
+          <odeIdeviceId>idevice-1779743257070-51opb8jx6</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SdA. LAS CIVILIZACIONES ANTIGUAS DE MESOPOTAMIA Y EGIPTO</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">El proyecto tiene como objetivo adquirir aprendizaje sobre el origen de la escritura en las civilizaciones de Mesopotamia y Egipto, analizando cómo surgieron los primeros sistemas de escritura y cuál fue su importancia para el desarrollo de las sociedades antiguas. Teniendo que investigar sobre la escritura en Mesopotamia y Egipto (cuneiforme y jeroglíficos), soportes que utilizaban, la vida cotidiana de los escribas y sacerdotes, y la importancia que tuvo la escritura para la organización política, económica y cultural.
+
+Al nivel que va dirigido es el alumnado de 1º de la ESO
+
+La temporalización aproximada será de 4 semanas, en unas 10 o 12 sesiones. 
+
+La materia implicada será la de Geografía e Historia, aunque se podrá trabajar de forma interdisciplinar con la materia de Lengua y Literatura, Inglés y Educación Plástica y Visual.
+
+El idioma principal será el castellano, pero como ya he dicho se podrá trabajar con la materia de inglés.
+Este proyecto tiene como objetivo que el alumnado conozca el origen de la escritura y comprenda su importancia como herramienta fundamental para el desarrollo de las civilizaciones.
+A través de metodologías activas, participativas y motivadoras, el alumnado investigará cómo escribían en Mesopotamia y Egipto, qué materiales utilizaban y cuál era la función de los escribas. Para ello el alumnado tendrá que realizar actividades como investigación de fuentes históricas, realización de ejes cronológicos, interpretación de imágenes y símbolos, elaboración de tablillas de arcilla, presentaciones digitales, exposiciones orales, etc.
+</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">MARÍA DOLORES SÁNCHEZ LÓPEZ MONTERO</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
